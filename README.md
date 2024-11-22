@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Random Name Notifications with Background Alerts  
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)  
@@ -109,3 +110,21 @@ If you have any questions, feel free to reach out!
 GitHub: bawanisandunika
 Email: bawanisandunika51@gmail.com
 
+=======
+# alearts
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 75f9dd8 (Initial commit: Add Random Name Notifications project)
